@@ -7,15 +7,10 @@ The aim of this project is to analyze the interactions that users have with arti
 ### How to run
 Simply open the Recommendations_with_IBM.ipynb in jupyter notebook
 
-'''
->>> jupyter notebook
-'''
 
 ###  Installations
 This project requires Python 3.x and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org)
-- [Pickle](https://pickle.pydata.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
 
 ### Summary:
 The project contains the following tasks:
