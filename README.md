@@ -4,10 +4,17 @@
 ## Project Motivation
 The aim of this project is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations of new articles they might like to them.
 
+### How to run
+Simply open the Recommendations_with_IBM.ipynb in jupyter notebook
+
+'''
+>>> jupyter notebook
+'''
+
 ###  Installations
 This project requires Python 3.x and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org)
-- [Seaborn](https://seaborn.pydata.org/)
+- [Pickle](https://pickle.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 ### Summary:
